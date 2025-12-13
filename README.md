@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/aae647e1-3c34-4b61-b484-bf897c49a044" /><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/305026c7-937e-4064-82eb-0a3a8a66df13" />## Hi there 👋
+## Hi there 👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemanjaTra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
