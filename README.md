@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nemanjaTra&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nemanjaTra&layout=compact&theme=dark" height="150" />
-</div>
 
 ### 
 <div align="center"> 
