@@ -1,38 +1,24 @@
 
 # Hi, I'm Nemanja Trajanovski 👋
 
-### Computer Science & Engineering Graduate | MSc Cloud Computing Student
+### Software Engineer | DevOps |Computer Science & Engineering Graduate | MSc Cloud Computing Student | IT Systems Administration | IT Infrastructure
 
 I'm a Computer Science and Engineering graduate from FINKI, currently pursuing a Master's degree in Cloud Computing.
 
 I'm interested in Cloud Computing, DevOps, IT Infrastructure, and Software Engineering. I enjoy building applications, exploring new technologies, and developing practical technical skills.
 
-### 🛠️ Technologies & Tools
-
-**Programming:** Java, Python, C/C++, JavaScript, SQL
-
-**Backend:** Spring Boot, Spring Security, REST APIs
-
-**Frontend:** React, HTML, CSS
-
-**Databases:** MySQL
-
-**Cloud & DevOps:** AWS, Docker, Git, Linux, CI/CD fundamentals
-
-**Data Analysis:** Jupyter Notebook, Pandas, NumPy
-
-### 🚀 Featured Projects
+### Featured Projects
 
 - **WeGO** – Full-stack carpooling platform built with Java, Spring Boot, React, and MySQL.
 - **IT Systems Administration Home Lab** – Practical lab focused on Windows Server, Active Directory, DNS, DHCP, PowerShell, and Linux.
 - **FINKI Food Shop** – Team-based full-stack food ordering application.
 
-### 🎓 Education
+### Education
 
 - MSc in Information Science and Computer Engineering – Cloud Computing, FINKI
 - BSc in Information Science and Computer Engineering, FINKI
 
-### 📫 Connect with me
+### Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/nemanja-trajanovski-052b9b223
 - GitHub: https://github.com/nemanjaTra
